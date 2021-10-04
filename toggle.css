@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.duck{
+    background-image: url(../../eendje.jpg);
+    width: 10%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20%;
+    box-sizing: border-box;
+}
+
+.blackDuck{
+    background-image: url(./blackDuck.jpg);
+    width: 10%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20%;
+    box-sizing: border-box;
+}
